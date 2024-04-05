@@ -84,7 +84,7 @@ function App() {
             <div class="">
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <div class="container my-2">
-                        <h4>Trushang Event Dashboard</h4>
+                        <h4>Vyom`s Event Dashboard</h4>
                         <div>
                             <button type="button"
                                 class="btn btn-success mx-3" data-toggle="modal"
