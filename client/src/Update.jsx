@@ -57,7 +57,7 @@ function Update() {
         <div className="container">
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
                 <div className="container my-2">
-                    <h4>Trushang Event</h4>
+                    <h4>Vyom Event</h4>
                     <Link className="btn btn-primary ml-auto" to="/dashboard">
                         Dashboard
                     </Link>
